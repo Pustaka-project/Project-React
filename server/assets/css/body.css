@@ -1,0 +1,32 @@
+.content-body
+{
+   background-color: #FFF;
+   height:16.3cm;
+   margin-top:-22px;
+}
+
+.content-body h2
+{
+    background-color:lightgray;
+}
+.features
+{
+  background-color:#FFF;
+  width: 7cm;
+  text-align: center;
+  font-size: 18px;
+  margin-left:-5px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.category-row1
+{
+    margin-top: 147px;
+    height:0.8cm;
+}
+
+.dashboard
+{   margin-top:40px;
+    width:100%;
+    height:100%;
+}

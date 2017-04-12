@@ -1,0 +1,22 @@
+.btn
+{
+    background-color:yellowgreen;
+    color:black;
+    font-weight: bold;
+}
+
+.categories
+{
+   margin-top:-58px;
+}
+
+.footer
+{
+    margin-top: 10cm;
+}
+.login-submit
+{  
+    margin-top:-15px;
+    margin-right:2px;
+    text-align: center;
+}
